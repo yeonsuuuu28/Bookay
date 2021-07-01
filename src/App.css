@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+ul{
+  list-style-type: none;
+  margin: none;
+  padding: none;
+  background-color: #0B2561;
+  float: left;
+
+}
+li{
+  display:inline;
+  
+}
+a{
+  display: inline-block;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top:5px;
+  padding-bottom: 5px;
+  text-align: center;
+  text-decoration: none;
+  color:#FFFFFF;
+  font-family: 'Muli', sans-serif;
+}
+li a:hover{
+  background-color: #6386D8;
+}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
