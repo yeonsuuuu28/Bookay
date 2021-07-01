@@ -3,8 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      BOOKAY!!!
-      <br />
+      <h1>BOOKAY!</h1>
       <ul>
         <li><a href="">Home</a></li>
         <li><a href="">About</a></li>
